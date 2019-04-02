@@ -12,6 +12,7 @@
         target="_blank"
       >
         <span class="mr-2">Latest Release</span>
+        <span class="material-icons md-18">face</span>
       </v-btn>
     </v-toolbar>
 
